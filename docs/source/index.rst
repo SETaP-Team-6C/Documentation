@@ -1,5 +1,6 @@
 Welcome to Lumache's documentation! 
 ===================================
+Rogan
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -11,7 +12,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development. :)
+   This project is under active development.
 
 Contents
 --------
